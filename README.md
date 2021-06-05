@@ -22,3 +22,6 @@ Here is the **Live preview** : https://netflix-clone-8454f.web.app/
 11. Synthetic Events
 12. Communicate between components
 13. Deploy React to Firebase
+
+
+Thanks to https://dev.to/hieptl Follow this guy his blogs really helped me alot.
